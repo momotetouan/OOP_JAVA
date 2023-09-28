@@ -9,12 +9,16 @@ Ce projet est une implémentation simple du jeu de Tic-Tac-Toe (morpion) en Java
 2. Clonez ou téléchargez ce dépôt sur votre ordinateur.
 
 3. Compilez le code source en exécutant la commande suivante dans le répertoire du projet :
+4. 
+   
+ javac Application/*.java
+ 
+5. Exécutez le jeu en utilisant la commande suivante :
+6. java Application.Main
 
-4. Exécutez le jeu en utilisant la commande suivante :
+7. Suivez les instructions à l'écran pour entrer les coordonnées de votre coup. Par exemple, pour jouer en haut à gauche, entrez "1 1".
 
-5. Suivez les instructions à l'écran pour entrer les coordonnées de votre coup. Par exemple, pour jouer en haut à gauche, entrez "1 1".
-
-6. Le jeu continuera jusqu'à ce qu'un joueur gagne ou que le match se termine par un match nul.
+8. Le jeu continuera jusqu'à ce qu'un joueur gagne ou que le match se termine par un match nul.
 
 ## Fonctionnalités
 
